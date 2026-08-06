@@ -15,3 +15,6 @@
 ##### JOINS
 01) JOINS - parte 1
 02) JOINS - parte 2
+
+##### FUNÇÕES SQL
+01) Funções de Agregação - Parte 1
