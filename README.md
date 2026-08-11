@@ -18,3 +18,4 @@
 
 ##### FUNÇÕES SQL
 01) Funções de Agregação - Parte 1
+02) Funções de Agregação - Parte 2
