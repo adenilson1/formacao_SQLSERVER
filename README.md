@@ -19,3 +19,4 @@
 ##### FUNÇÕES SQL
 01) Funções de Agregação - Parte 1
 02) Funções de Agregação - Parte 2
+03) Funções de Classificação
