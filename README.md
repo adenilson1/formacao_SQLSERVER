@@ -21,3 +21,4 @@
 02) Funções de Agregação - Parte 2
 03) Funções de Classificação
 04) Funções Lógicas
+05) Funções matematicas
