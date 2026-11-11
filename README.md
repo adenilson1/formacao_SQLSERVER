@@ -22,3 +22,4 @@
 03) Funções de Classificação
 04) Funções Lógicas
 05) Funções matematicas
+06) Funções de limite
