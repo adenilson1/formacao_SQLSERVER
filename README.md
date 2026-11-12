@@ -23,3 +23,4 @@
 04) Funções Lógicas
 05) Funções matematicas
 06) Funções de limite
+07) Funções de conversão
